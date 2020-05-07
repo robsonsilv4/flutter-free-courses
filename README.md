@@ -96,6 +96,14 @@ Os melhores cursos e séries sobre Flutter e Dart disponíveis. Totalmente gratu
 
 Special thanks to all content creators and contributors. You are the best ❤️.
 
+## To do
+
+- [ ] Add courses from other platforms
+- [ ] Separate by platform
+- [ ] Separete by topic
+- [ ] Separete by author
+- [ ] Add presentations
+
 ## License
 
 This project is under the terms of the [MIT License](LICENSE).

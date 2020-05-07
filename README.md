@@ -1,8 +1,35 @@
-# Flutter Free Courses
+<h1 align="center">
+    <img alt="Flutter Courses" title="#fluttercourses" src="flutter.png" width="500px" />
+</h1>
 
-The best courses and series about Flutter out there... Totally free!
+<h4 align="center">
+  Flutter and Dart 💙 | Free Courses 🆓 | Series | Presentations
+</h4>
 
-### English
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/robsonsilv4/flutter-courses">
+  
+  <a href="https://github.com/robsonsilv4/flutter-courses/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/robsonsilv4/flutter-courses">
+  </a>
+
+  <a href="https://github.com/robsonsilv4/flutter-courses/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/robsonsilv4/flutter-courses">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
+<p align="center">
+  <a href="#english">Content in English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#português">Conteúdo em Portugûes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thanks">Thanks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
+</p>
+
+## English
+
+The best courses and series about Flutter and Dart available. Totally free!
 
 - [How to Build Flutter Apps for iOS and Android](https://www.youtube.com/playlist?list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm) by London App Brewery
 - [Flutter Crash Course for Beginners 2020](https://youtu.be/x0uinJvhNxI) by Academind
@@ -37,7 +64,9 @@ The best courses and series about Flutter out there... Totally free!
 - [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) by Flutter
 - [Dart](https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J) by Flutter
 
-### Portuguese
+## Português
+
+Os melhores cursos e séries sobre Flutter e Dart disponíveis. Totalmente gratuitos!
 
 - [APP Flutter - Sua PRIMEIRA App COMPLETA](https://youtu.be/jyjdXFsQoYw) by Cod3r Cursos
 - [Curso básico de Flutter](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) by balta.io
@@ -62,3 +91,11 @@ The best courses and series about Flutter out there... Totally free!
 - [Flutter ThizerList - Lista de Supermercado](https://www.youtube.com/playlist?list=PLL9T96XhR2dcZAOSFgWCtlY1BYA0JaGR8) by Thizer Aplicativos
 - [Nubank clone with Flutter and Firebase - Finance control App](https://www.youtube.com/playlist?list=PLZc3CthjTAlRaZQJ-fZJEtsi2y1wg8nnK) by Henrique Dal Mora
 - [Flutter](https://www.youtube.com/playlist?list=PL62G310vn6nE8NOhju7HQgtkw4jriwBnm) by DevDojo
+
+## Thanks
+
+Special thanks to all content creators and contributors. You are the best ❤️.
+
+## License
+
+This project is under the terms of the [MIT License](LICENSE).

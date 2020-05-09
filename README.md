@@ -116,7 +116,10 @@ Udemy:
 
 Los mejores cursos y series sobre Flutter y Dart disponibles. Totalmente gratis!
 
-- Buscando...
+Udemy:
+
+- [Flutter: Una introducción al SDK de Google](https://www.udemy.com/share/102ex0AkUec1pXQXg=/) por Fernando Herrera
+- [Dart & Introducción a Flutter](https://www.udemy.com/share/101x3QAkUec1pXQXg=/) por Miguel Campos Rivera and Alejandro Lora
 
 ## Thanks
 

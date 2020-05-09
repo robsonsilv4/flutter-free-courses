@@ -32,6 +32,8 @@
 
 The best courses and series about Flutter and Dart available. Totally free!
 
+YouTube:
+
 - [How to Build Flutter Apps for iOS and Android](https://www.youtube.com/playlist?list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm) by London App Brewery
 - [Flutter Crash Course for Beginners 2020](https://youtu.be/x0uinJvhNxI) by Academind
 - [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) by The Net Ninja
@@ -65,9 +67,21 @@ The best courses and series about Flutter and Dart available. Totally free!
 - [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) by Flutter
 - [Dart](https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J) by Flutter
 
+Udemy:
+
+- [Learn Flutter - Beginners Course](https://www.udemy.com/share/101sbGAkUec1pXQXg=/) by Mayuresh Wankhede
+- [Free Flutter intermediate course 1 hour learn new widgets](https://www.udemy.com/share/101sb8AkUec1pXQXg=/) by Tim Schütz
+- [Pre-Flutter & Dart: Everything To Know Before You Start!](https://www.udemy.com/share/101tNsAkUec1pXQXg=/) by Farid Ul Haq
+- [Flutter Beginner Tutorial - Build own App](https://www.udemy.com/share/101wmSAkUec1pXQXg=/) by Tim Schütz
+- [Introduction to Flutter](https://www.udemy.com/share/102GdWAkUec1pXQXg=/) by Satkriti Singh and Prateek Mewara
+- [Learn Flutter & Dart by doing](https://www.udemy.com/share/102ZpEAkUec1pXQXg=/) by Abdulaziz Alshamran
+- [Learn Make Intro View Using Flutter](https://www.udemy.com/share/102jtEAkUec1pXQXg=/) by Ahmed Zeyada
+
 ## Português
 
 Os melhores cursos e séries sobre Flutter e Dart disponíveis. Totalmente gratuitos!
+
+YouTube:
 
 - [APP Flutter - Sua PRIMEIRA App COMPLETA](https://youtu.be/jyjdXFsQoYw) by Cod3r Cursos
 - [Curso básico de Flutter](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) by balta.io
@@ -93,6 +107,11 @@ Os melhores cursos e séries sobre Flutter e Dart disponíveis. Totalmente gratu
 - [Nubank clone with Flutter and Firebase - Finance control App](https://www.youtube.com/playlist?list=PLZc3CthjTAlRaZQJ-fZJEtsi2y1wg8nnK) by Henrique Dal Mora
 - [Flutter](https://www.youtube.com/playlist?list=PL62G310vn6nE8NOhju7HQgtkw4jriwBnm) by DevDojo
 
+Udemy:
+
+- [Flutter: crie apps Android/iOS com novo SDK mobile do Google](https://www.udemy.com/share/102CAlAkUec1pXQXg=/) by Henrique Dezani
+- [Lógica de Programação com Dart](https://www.udemy.com/share/1022bCAkUec1pXQXg=/) by Jacob Moura
+
 ## Espanol
 
 Los mejores cursos y series sobre Flutter y Dart disponibles. Totalmente gratis!
@@ -105,8 +124,8 @@ Special thanks to all content creators and contributors. You are the best ❤️
 
 ## To do
 
-- [ ] Add courses from other platforms
-- [ ] Separate by platform
+- [x] Add courses from other platforms
+- [x] Separate by platform
 - [ ] Separete by topic
 - [ ] Separete by author
 - [ ] Add presentations

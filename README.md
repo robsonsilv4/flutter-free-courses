@@ -83,29 +83,29 @@ Os melhores cursos e séries sobre Flutter e Dart disponíveis. Totalmente gratu
 
 YouTube:
 
-- [APP Flutter - Sua PRIMEIRA App COMPLETA](https://youtu.be/jyjdXFsQoYw) by Cod3r Cursos
-- [Curso básico de Flutter](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) by balta.io
-- [Curso Flutter: Álcool ou Gasolina](https://www.youtube.com/playlist?list=PLHlHvK2lnJnc06VlkzrQak8qln72U640b) by balta.io
-- [Flutter - Aprenda MobX na Prática](https://www.youtube.com/playlist?list=PLR5GUTqrcwXim6ZCDvRpsak8CB8_mreCE) by Daniel Ciolfi
-- [Curso de FLUTTER e DART](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) by daves tecnologia
-- [Construindo Player de Música](https://www.youtube.com/playlist?list=PLEXr-WZRgPjzE6BVUItaSzISYz0bWXX-D) by Rodrigo Rahman
-- [Flutter Pokedex](https://www.youtube.com/playlist?list=PLHAtJbrQ17AVj0LJEc955109XpX925Pt1) by Renato Mota
-- [Flutter Go Fast](https://www.youtube.com/playlist?list=PLHAtJbrQ17AWXvqBvV4YJXgrvy898hBcL) by Renato Mota
-- [Flutter Challenge - CreditCard](https://www.youtube.com/playlist?list=PLHAtJbrQ17AUO4bFxJ54bqeXZNZk_u3CM) by Renato Mota
-- [Criando Home Do Nubank](https://www.youtube.com/playlist?list=PLHAtJbrQ17AUH21bcdrA0HKP7OroUg2nI) by Renato Mota
-- [Flutter - Manipulando API REST](https://www.youtube.com/playlist?list=PLlBnICoI-g-f_HK8JsjjaAWlXYxRgnZPu) by Flutterando
-- [MobX](https://www.youtube.com/playlist?list=PLlBnICoI-g-foW-Osr0PlpE1_AD3aItbZ) by Flutterando
-- [Flutter - Iniciantes](https://www.youtube.com/playlist?list=PLlBnICoI-g-cqwYgp3uBiphS4KC3daJ-R) by Flutterando
-- [Slidy e Modular](https://www.youtube.com/playlist?list=PLlBnICoI-g-dCE_JiJd7bJnEYbigkX7pq) by Flutterando
-- [Flutter - Gerência de estado](https://www.youtube.com/playlist?list=PLlBnICoI-g-fRj3zSTzD0carG69G8bN_b) by Flutterando
-- [Flutter - Programação Reativa](https://www.youtube.com/playlist?list=PLlBnICoI-g-cxQmqQoPTaabqyFiFo_MQH) by Flutterando
-- [Flutter - Navegação (Routes)](https://www.youtube.com/playlist?list=PLlBnICoI-g-eH3zpoCDnYh6Wp1zM_p71z) by Flutterando
-- [FlutterCast - Introdução ao Flutter](https://www.youtube.com/playlist?list=PLlBnICoI-g-eDu6r5syEF9NM315MKvgGp) by Flutterando
-- [Dart](https://www.youtube.com/playlist?list=PLL9T96XhR2ddz4H9mZOsxSATEbiddrvK1) by Thizer Aplicativos
-- [Minicurso Flutter Iniciante](https://www.youtube.com/playlist?list=PLL9T96XhR2dfTCoQ7jruRWB-1kw7u2fFq) by Thizer Aplicativos
-- [Flutter ThizerList - Lista de Supermercado](https://www.youtube.com/playlist?list=PLL9T96XhR2dcZAOSFgWCtlY1BYA0JaGR8) by Thizer Aplicativos
-- [Nubank clone with Flutter and Firebase - Finance control App](https://www.youtube.com/playlist?list=PLZc3CthjTAlRaZQJ-fZJEtsi2y1wg8nnK) by Henrique Dal Mora
-- [Flutter](https://www.youtube.com/playlist?list=PL62G310vn6nE8NOhju7HQgtkw4jriwBnm) by DevDojo
+- [APP Flutter - Sua PRIMEIRA App COMPLETA](https://youtu.be/jyjdXFsQoYw) por Cod3r Cursos
+- [Curso básico de Flutter](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) por balta.io
+- [Curso Flutter: Álcool ou Gasolina](https://www.youtube.com/playlist?list=PLHlHvK2lnJnc06VlkzrQak8qln72U640b) por balta.io
+- [Flutter - Aprenda MobX na Prática](https://www.youtube.com/playlist?list=PLR5GUTqrcwXim6ZCDvRpsak8CB8_mreCE) por Daniel Ciolfi
+- [Curso de FLUTTER e DART](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) por daves tecnologia
+- [Construindo Player de Música](https://www.youtube.com/playlist?list=PLEXr-WZRgPjzE6BVUItaSzISYz0bWXX-D) por Rodrigo Rahman
+- [Flutter Pokedex](https://www.youtube.com/playlist?list=PLHAtJbrQ17AVj0LJEc955109XpX925Pt1) por Renato Mota
+- [Flutter Go Fast](https://www.youtube.com/playlist?list=PLHAtJbrQ17AWXvqBvV4YJXgrvy898hBcL) por Renato Mota
+- [Flutter Challenge - CreditCard](https://www.youtube.com/playlist?list=PLHAtJbrQ17AUO4bFxJ54bqeXZNZk_u3CM) por Renato Mota
+- [Criando Home Do Nubank](https://www.youtube.com/playlist?list=PLHAtJbrQ17AUH21bcdrA0HKP7OroUg2nI) por Renato Mota
+- [Flutter - Manipulando API REST](https://www.youtube.com/playlist?list=PLlBnICoI-g-f_HK8JsjjaAWlXYxRgnZPu) por Flutterando
+- [MobX](https://www.youtube.com/playlist?list=PLlBnICoI-g-foW-Osr0PlpE1_AD3aItbZ) por Flutterando
+- [Flutter - Iniciantes](https://www.youtube.com/playlist?list=PLlBnICoI-g-cqwYgp3uBiphS4KC3daJ-R) por Flutterando
+- [Slidy e Modular](https://www.youtube.com/playlist?list=PLlBnICoI-g-dCE_JiJd7bJnEYbigkX7pq) por Flutterando
+- [Flutter - Gerência de estado](https://www.youtube.com/playlist?list=PLlBnICoI-g-fRj3zSTzD0carG69G8bN_b) por Flutterando
+- [Flutter - Programação Reativa](https://www.youtube.com/playlist?list=PLlBnICoI-g-cxQmqQoPTaabqyFiFo_MQH) por Flutterando
+- [Flutter - Navegação (Routes)](https://www.youtube.com/playlist?list=PLlBnICoI-g-eH3zpoCDnYh6Wp1zM_p71z) por Flutterando
+- [FlutterCast - Introdução ao Flutter](https://www.youtube.com/playlist?list=PLlBnICoI-g-eDu6r5syEF9NM315MKvgGp) por Flutterando
+- [Dart](https://www.youtube.com/playlist?list=PLL9T96XhR2ddz4H9mZOsxSATEbiddrvK1) por Thizer Aplicativos
+- [Minicurso Flutter Iniciante](https://www.youtube.com/playlist?list=PLL9T96XhR2dfTCoQ7jruRWB-1kw7u2fFq) por Thizer Aplicativos
+- [Flutter ThizerList - Lista de Supermercado](https://www.youtube.com/playlist?list=PLL9T96XhR2dcZAOSFgWCtlY1BYA0JaGR8) por Thizer Aplicativos
+- [Nubank clone with Flutter and Firebase - Finance control App](https://www.youtube.com/playlist?list=PLZc3CthjTAlRaZQJ-fZJEtsi2y1wg8nnK) por Henrique Dal Mora
+- [Flutter](https://www.youtube.com/playlist?list=PL62G310vn6nE8NOhju7HQgtkw4jriwBnm) por DevDojo
 
 Udemy:
 

@@ -47,6 +47,7 @@ YouTube:
 - [Flutter Provider](https://www.youtube.com/playlist?list=PLNnAcB93JKV-IarNvMKJv85nmr5nyZis8) by Code With Andrea
 - [Flutter & Firebase authentication](https://www.youtube.com/playlist?list=PLNnAcB93JKV_NIGSneTazb9yMpILapEjo) by Code With Andrea
 - [Flutter: Custom Wave Slider](https://www.youtube.com/playlist?list=PLjr4ufdmNA4J2-KwMutexAjjf_VmjL1eH) by Fun with Flutter
+- [BLoc - from Zero to Hero](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o) by Flutterly
 - [Flutter Bloc Cryptocurrency App Tutorial](https://www.youtube.com/playlist?list=PLzOt3noWLMtgmTGBx1_YOkmQB0pBFN2EI) by Marcus Ng
 - [Farmer's Market Mobile Ordering Application](https://www.youtube.com/playlist?list=PLKlZdGMAYp6_HALU6jMYhaD3EKsIi0Rqy) by Andy Julow
 - [Flutter Provider Package](https://www.youtube.com/playlist?list=PLKlZdGMAYp6_kxMe1wg5nB_GrLOJe-ajY) by Andy Julow
@@ -83,6 +84,7 @@ Os melhores cursos e séries sobre Flutter e Dart disponíveis. Totalmente gratu
 
 YouTube:
 
+- [Curso COMPLETO de Flutter](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) by Flutterando
 - [APP Flutter - Sua PRIMEIRA App COMPLETA](https://youtu.be/jyjdXFsQoYw) por Cod3r Cursos
 - [Curso básico de Flutter](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) por balta.io
 - [Curso Flutter: Álcool ou Gasolina](https://www.youtube.com/playlist?list=PLHlHvK2lnJnc06VlkzrQak8qln72U640b) por balta.io

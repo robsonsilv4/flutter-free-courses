@@ -77,6 +77,7 @@ Udemy:
 - [Introduction to Flutter](https://www.udemy.com/share/102GdWAkUec1pXQXg=/) by Satkriti Singh and Prateek Mewara
 - [Learn Flutter & Dart by doing](https://www.udemy.com/share/102ZpEAkUec1pXQXg=/) by Abdulaziz Alshamran
 - [Learn Make Intro View Using Flutter](https://www.udemy.com/share/102jtEAkUec1pXQXg=/) by Ahmed Zeyada
+- [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/share/1013AAAEcYc11TTXo=/) by Stephen Grinder
 
 ## Português
 
@@ -113,6 +114,7 @@ Udemy:
 
 - [Flutter: crie apps Android/iOS com novo SDK mobile do Google](https://www.udemy.com/share/102CAlAkUec1pXQXg=/) by Henrique Dezani
 - [Lógica de Programação com Dart](https://www.udemy.com/share/1022bCAkUec1pXQXg=/) by Jacob Moura
+- [Flutter, TDD, Clean Architecture, SOLID e Design Patterns](https://www.udemy.com/share/103pMaAEcYc11TTXo=/) by Rodrigo Manguinho
 
 ## Espanol
 

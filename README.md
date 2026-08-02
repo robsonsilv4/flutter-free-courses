@@ -7,14 +7,14 @@
 </h4>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/robsonsilv4/flutter-courses">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/robsonsilv4/flutter-free-courses">
   
-  <a href="https://github.com/robsonsilv4/flutter-courses/master">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/robsonsilv4/flutter-courses">
+  <a href="https://github.com/robsonsilv4/flutter-free-courses/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/robsonsilv4/flutter-free-courses">
   </a>
 
-  <a href="https://github.com/robsonsilv4/flutter-courses/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/robsonsilv4/flutter-courses">
+  <a href="https://github.com/robsonsilv4/flutter-free-courses/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/robsonsilv4/flutter-free-courses">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
